@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "Menu_Sex",
+	"idle_anim": "Menu_Sex",
+	"position": [
+		120,
+		87
+	],
+	"scale": 0.75,
+	"flipX": false,
+	"image": "Menu_Sex"
+}

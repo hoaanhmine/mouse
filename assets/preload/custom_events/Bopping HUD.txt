@@ -1,0 +1,5 @@
+used in bad thoughts for da sick parts lol
+
+Value 1: beginning position
+add 1 or some random text to active it.
+to unactivate it just leave the value blank.

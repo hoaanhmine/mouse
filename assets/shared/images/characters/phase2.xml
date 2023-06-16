@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="phase2.png">
+<SubTexture name="phase2 dont use0000" x="457" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 dont use0001" x="916" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 dont use0002" x="916" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 dont use0003" x="916" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 dont use0004" x="916" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 dont use0005" x="916" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 dont use0006" x="916" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 dont use0007" x="916" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 dont use0008" x="916" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 dont use0009" x="916" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 dont use0010" x="916" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 dont use0011" x="916" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 dont use0012" x="916" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 hohohooo0000" x="1377" y="2311" width="463" height="748" frameX="-151" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 hohohooo0001" x="1935" y="3806" width="491" height="727" frameX="-137" frameY="-272" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 hohohooo0002" x="961" y="3806" width="487" height="733" frameX="-140" frameY="-266" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 hohohooo0003" x="894" y="0" width="435" height="776" frameX="-162" frameY="-226" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 hohohooo0004" x="1780" y="767" width="451" height="752" frameX="-155" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 hohohooo0005" x="451" y="786" width="435" height="767" frameX="-162" frameY="-235" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 hohohooo0006" x="1840" y="2311" width="451" height="748" frameX="-155" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 hohohooo0007" x="451" y="786" width="435" height="767" frameX="-162" frameY="-235" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 hohohooo0008" x="3241" y="3060" width="459" height="742" frameX="-152" frameY="-257" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 hohohooo0009" x="451" y="786" width="435" height="767" frameX="-162" frameY="-235" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 hohohooo0010" x="451" y="786" width="435" height="767" frameX="-162" frameY="-235" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 hohohooo0011" x="451" y="786" width="435" height="767" frameX="-162" frameY="-235" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 hohohooo0012" x="451" y="786" width="435" height="767" frameX="-162" frameY="-235" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 hohohooo0013" x="451" y="786" width="435" height="767" frameX="-162" frameY="-235" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 hohohooo0014" x="451" y="786" width="435" height="767" frameX="-162" frameY="-235" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 hohohooo0015" x="1840" y="2311" width="451" height="748" frameX="-155" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 hohohooo0016" x="3241" y="3060" width="459" height="742" frameX="-152" frameY="-257" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 hohohooo0017" x="3241" y="3060" width="459" height="742" frameX="-152" frameY="-257" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 hohohooo0018" x="3241" y="3060" width="459" height="742" frameX="-152" frameY="-257" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 hohohooo0019" x="3241" y="3060" width="459" height="742" frameX="-152" frameY="-257" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 hohohooo0020" x="3241" y="3060" width="459" height="742" frameX="-152" frameY="-257" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 hohohooo0021" x="3241" y="3060" width="459" height="742" frameX="-152" frameY="-257" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 hohohooo0022" x="3241" y="3060" width="459" height="742" frameX="-152" frameY="-257" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 idle0000" x="1375" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 idle0001" x="2291" y="2311" width="463" height="748" frameX="-151" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 idle0002" x="4535" y="2220" width="473" height="738" frameX="-145" frameY="-261" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 idle0003" x="1448" y="3806" width="487" height="729" frameX="-140" frameY="-270" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 idle0004" x="2917" y="3806" width="491" height="720" frameX="-137" frameY="-279" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 idle0005" x="3408" y="3806" width="491" height="720" frameX="-137" frameY="-279" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 idle0006" x="5009" y="2092" width="487" height="678" frameX="-140" frameY="-321" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 idle0007" x="3899" y="3806" width="473" height="718" frameX="-145" frameY="-281" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 idle0008" x="3150" y="0" width="463" height="748" frameX="-151" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 idle0009" x="2691" y="0" width="459" height="751" frameX="-152" frameY="-248" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 down0000" x="0" y="4544" width="500" height="674" frameX="-133" frameY="-324" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 down0001" x="5009" y="1402" width="487" height="690" frameX="-140" frameY="-309" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 down0002" x="5009" y="704" width="483" height="698" frameX="-142" frameY="-301" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 down0003" x="5009" y="704" width="483" height="698" frameX="-142" frameY="-301" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 down0004" x="5009" y="704" width="483" height="698" frameX="-142" frameY="-301" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 up0000" x="0" y="0" width="438" height="786" frameX="-152" frameY="-216" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 up0001" x="438" y="0" width="456" height="777" frameX="-140" frameY="-224" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 up0002" x="1329" y="0" width="451" height="771" frameX="-149" frameY="-230" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 up0003" x="0" y="786" width="451" height="771" frameX="-149" frameY="-230" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 up0004" x="0" y="786" width="451" height="771" frameX="-149" frameY="-230" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 left0000" x="1389" y="3060" width="464" height="745" frameX="-139" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 left0001" x="0" y="1557" width="457" height="754" frameX="-145" frameY="-244" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 left0002" x="2233" y="763" width="449" height="756" frameX="-151" frameY="-242" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 left0003" x="2233" y="763" width="449" height="756" frameX="-151" frameY="-242" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 left0004" x="2233" y="763" width="449" height="756" frameX="-151" frameY="-242" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 right0000" x="922" y="3060" width="467" height="745" frameX="-155" frameY="-253" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 right0001" x="2233" y="0" width="458" height="763" frameX="-157" frameY="-236" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 right0002" x="886" y="786" width="453" height="767" frameX="-158" frameY="-232" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 right0003" x="1780" y="0" width="453" height="767" frameX="-158" frameY="-232" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 right0004" x="1780" y="0" width="453" height="767" frameX="-158" frameY="-232" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0000" x="1834" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0001" x="1834" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0002" x="1834" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0003" x="1834" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0004" x="1834" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0005" x="1834" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0006" x="1834" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0007" x="1834" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0008" x="1834" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0009" x="1834" y="1557" width="459" height="752" frameX="-152" frameY="-247" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0010" x="5009" y="0" width="491" height="704" frameX="-137" frameY="-295" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0011" x="4372" y="3806" width="487" height="714" frameX="-140" frameY="-285" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0012" x="4072" y="742" width="463" height="735" frameX="-151" frameY="-264" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0013" x="1853" y="3060" width="459" height="744" frameX="-152" frameY="-255" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0014" x="3613" y="2244" width="459" height="746" frameX="-152" frameY="-253" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0015" x="3150" y="748" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0016" x="3150" y="1496" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0017" x="3150" y="2244" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0018" x="2691" y="751" width="459" height="749" frameX="-152" frameY="-250" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0019" x="2691" y="1500" width="459" height="749" frameX="-152" frameY="-250" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0020" x="0" y="2311" width="459" height="749" frameX="-152" frameY="-250" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0021" x="3613" y="0" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0022" x="3150" y="1496" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0023" x="3150" y="2244" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0024" x="459" y="2311" width="459" height="749" frameX="-152" frameY="-250" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0025" x="918" y="2311" width="459" height="749" frameX="-152" frameY="-250" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0026" x="3150" y="748" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0027" x="3150" y="1496" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0028" x="3150" y="2244" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0029" x="3150" y="748" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0030" x="3150" y="2244" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0031" x="459" y="2311" width="459" height="749" frameX="-152" frameY="-250" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0032" x="3150" y="1496" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0033" x="3613" y="748" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0034" x="3150" y="2244" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0035" x="3613" y="1496" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0036" x="3150" y="748" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0037" x="3150" y="748" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0038" x="3150" y="748" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0039" x="3150" y="748" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0040" x="3150" y="748" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0041" x="3150" y="748" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0042" x="4072" y="0" width="463" height="742" frameX="-151" frameY="-257" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0043" x="2426" y="3806" width="491" height="727" frameX="-137" frameY="-272" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0044" x="0" y="3806" width="487" height="738" frameX="-140" frameY="-261" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0045" x="2312" y="3060" width="463" height="744" frameX="-151" frameY="-255" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0046" x="0" y="3060" width="459" height="746" frameX="-152" frameY="-253" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0047" x="459" y="2311" width="459" height="749" frameX="-152" frameY="-250" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0048" x="3150" y="1496" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0049" x="3613" y="748" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0050" x="3150" y="2244" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0051" x="3613" y="0" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0052" x="2691" y="1500" width="459" height="749" frameX="-152" frameY="-250" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0053" x="0" y="2311" width="459" height="749" frameX="-152" frameY="-250" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0054" x="3613" y="0" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0055" x="3150" y="748" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0056" x="3613" y="0" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0057" x="2691" y="1500" width="459" height="749" frameX="-152" frameY="-250" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0058" x="0" y="2311" width="459" height="749" frameX="-152" frameY="-250" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0059" x="3150" y="1496" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0060" x="3613" y="748" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0061" x="3150" y="2244" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0062" x="3150" y="748" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0063" x="3613" y="748" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0064" x="3150" y="2244" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0065" x="3613" y="0" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0066" x="3150" y="748" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0067" x="3150" y="748" width="459" height="748" frameX="-152" frameY="-251" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0068" x="459" y="3060" width="463" height="746" frameX="-151" frameY="-253" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0069" x="2775" y="3060" width="466" height="744" frameX="-149" frameY="-254" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0070" x="4535" y="0" width="474" height="740" frameX="-145" frameY="-258" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0071" x="4535" y="2958" width="474" height="738" frameX="-145" frameY="-260" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0072" x="4535" y="740" width="474" height="740" frameX="-145" frameY="-258" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0073" x="4535" y="1480" width="474" height="740" frameX="-145" frameY="-258" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0074" x="487" y="3806" width="474" height="738" frameX="-145" frameY="-260" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0075" x="4535" y="2958" width="474" height="738" frameX="-145" frameY="-260" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0076" x="4535" y="2958" width="474" height="738" frameX="-145" frameY="-260" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0077" x="4535" y="2958" width="474" height="738" frameX="-145" frameY="-260" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0078" x="4535" y="2958" width="474" height="738" frameX="-145" frameY="-260" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0079" x="4535" y="2958" width="474" height="738" frameX="-145" frameY="-260" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0080" x="4535" y="2958" width="474" height="738" frameX="-145" frameY="-260" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0081" x="4535" y="2958" width="474" height="738" frameX="-145" frameY="-260" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0082" x="4535" y="2958" width="474" height="738" frameX="-145" frameY="-260" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0083" x="4535" y="2958" width="474" height="738" frameX="-145" frameY="-260" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0084" x="4535" y="2958" width="474" height="738" frameX="-145" frameY="-260" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0085" x="4535" y="2958" width="474" height="738" frameX="-145" frameY="-260" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0086" x="4535" y="2958" width="474" height="738" frameX="-145" frameY="-260" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0087" x="4535" y="2958" width="474" height="738" frameX="-145" frameY="-260" frameWidth="732" frameHeight="1023" />
+<SubTexture name="phase2 speak0088" x="4535" y="2958" width="474" height="738" frameX="-145" frameY="-260" frameWidth="732" frameHeight="1023" />
+</TextureAtlas>

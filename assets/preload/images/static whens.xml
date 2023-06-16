@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="static.png"><SubTexture name="static whens0000" x="0" y="0" width="720" height="480" frameX="0" frameY="0" frameWidth="720" frameHeight="480" />
+<SubTexture name="static whens0001" x="720" y="0" width="720" height="480" frameX="0" frameY="0" frameWidth="720" frameHeight="480" />
+<SubTexture name="static whens0002" x="0" y="480" width="720" height="480" frameX="0" frameY="0" frameWidth="720" frameHeight="480" />
+<SubTexture name="static whens0003" x="720" y="480" width="720" height="480" frameX="0" frameY="0" frameWidth="720" frameHeight="480" />
+<SubTexture name="static whens0004" x="0" y="960" width="720" height="480" frameX="0" frameY="0" frameWidth="720" frameHeight="480" />
+</TextureAtlas>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mayz_mouse.png">
+<SubTexture name="mayz_mouse idle0000" x="299" y="0" width="308" height="452" frameX="-253" frameY="-61" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse idle0001" x="0" y="456" width="308" height="450" frameX="-250" frameY="-63" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse idle0002" x="915" y="0" width="308" height="445" frameX="-241" frameY="-68" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse idle0003" x="1529" y="0" width="306" height="428" frameX="-229" frameY="-85" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse idle0004" x="1227" y="906" width="302" height="419" frameX="-225" frameY="-94" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse idle0005" x="0" y="1342" width="301" height="418" frameX="-225" frameY="-95" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse idle0006" x="616" y="456" width="299" height="421" frameX="-228" frameY="-92" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse idle0007" x="1529" y="428" width="298" height="428" frameX="-230" frameY="-85" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse idle0008" x="1223" y="0" width="306" height="436" frameX="-238" frameY="-77" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse idle0009" x="308" y="456" width="308" height="449" frameX="-247" frameY="-64" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse idle0010" x="607" y="0" width="308" height="452" frameX="-253" frameY="-61" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse sing down0000" x="1193" y="1342" width="289" height="389" frameX="-229" frameY="-123" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse sing down0001" x="603" y="1342" width="300" height="410" frameX="-237" frameY="-102" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse sing down0002" x="301" y="1342" width="302" height="417" frameX="-238" frameY="-96" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse sing down0003" x="301" y="1342" width="302" height="417" frameX="-238" frameY="-96" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse sing down0004" x="301" y="1342" width="302" height="417" frameX="-238" frameY="-96" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse sing up0000" x="0" y="0" width="299" height="456" frameX="-247" frameY="-58" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse sing up0001" x="915" y="445" width="306" height="439" frameX="-235" frameY="-74" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse sing up0002" x="0" y="906" width="308" height="436" frameX="-229" frameY="-77" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse sing up0003" x="0" y="906" width="308" height="436" frameX="-229" frameY="-77" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse sing up0004" x="0" y="906" width="308" height="436" frameX="-229" frameY="-77" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse sing left0000" x="1529" y="856" width="298" height="423" frameX="-275" frameY="-90" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse sing left0001" x="1223" y="436" width="306" height="430" frameX="-252" frameY="-83" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse sing left0002" x="308" y="906" width="307" height="432" frameX="-247" frameY="-81" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse sing left0003" x="308" y="906" width="307" height="432" frameX="-247" frameY="-81" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse sing left0004" x="308" y="906" width="307" height="432" frameX="-247" frameY="-81" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse sing right0000" x="903" y="1342" width="290" height="410" frameX="-183" frameY="-102" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse sing right0001" x="922" y="906" width="305" height="430" frameX="-194" frameY="-82" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse sing right0002" x="615" y="906" width="307" height="432" frameX="-199" frameY="-80" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse sing right0003" x="615" y="906" width="307" height="432" frameX="-199" frameY="-80" frameWidth="774" frameHeight="598" />
+<SubTexture name="mayz_mouse sing right0004" x="615" y="906" width="307" height="432" frameX="-199" frameY="-80" frameWidth="774" frameHeight="598" />
+</TextureAtlas>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sunny-fw.png">
+<SubTexture name="Sunny-fw idle0000" x="1676" y="465" width="350" height="463" frameX="-84" frameY="-80" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw idle0001" x="699" y="1032" width="343" height="468" frameX="-87" frameY="-75" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw idle0002" x="357" y="1032" width="342" height="474" frameX="-85" frameY="-69" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw idle0003" x="1334" y="483" width="342" height="481" frameX="-85" frameY="-62" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw idle0004" x="1334" y="0" width="342" height="483" frameX="-85" frameY="-60" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw idle0005" x="1334" y="0" width="342" height="483" frameX="-85" frameY="-60" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw idle0006" x="1334" y="0" width="342" height="483" frameX="-85" frameY="-60" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw down0000" x="364" y="1513" width="381" height="433" frameX="-67" frameY="-110" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw down0001" x="0" y="1513" width="364" height="460" frameX="-76" frameY="-83" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw down0002" x="1042" y="1032" width="358" height="467" frameX="-78" frameY="-76" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw down0003" x="1042" y="1032" width="358" height="467" frameX="-78" frameY="-76" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw down0004" x="1042" y="1032" width="358" height="467" frameX="-78" frameY="-76" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw up0000" x="0" y="0" width="321" height="534" frameX="-95" frameY="-9" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw up0001" x="321" y="0" width="332" height="517" frameX="-89" frameY="-26" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw up0002" x="653" y="0" width="333" height="512" frameX="-89" frameY="-31" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw up0003" x="653" y="0" width="333" height="512" frameX="-89" frameY="-31" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw up0004" x="653" y="0" width="333" height="512" frameX="-89" frameY="-31" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw right0000" x="345" y="534" width="359" height="496" frameX="-92" frameY="-45" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw right0001" x="986" y="0" width="348" height="498" frameX="-93" frameY="-43" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw right0002" x="0" y="534" width="345" height="498" frameX="-94" frameY="-43" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw right0003" x="0" y="534" width="345" height="498" frameX="-94" frameY="-43" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw right0004" x="0" y="534" width="345" height="498" frameX="-94" frameY="-43" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw left0000" x="1676" y="0" width="363" height="465" frameX="-63" frameY="-76" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw left0001" x="0" y="1032" width="357" height="481" frameX="-69" frameY="-60" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw left0002" x="704" y="534" width="358" height="486" frameX="-68" frameY="-55" frameWidth="529" frameHeight="555" />
+<SubTexture name="Sunny-fw left0003" x="704" y="534" width="358" height="486" frameX="-68" frameY="-55" frameWidth="529" frameHeight="555" />
+</TextureAtlas>
