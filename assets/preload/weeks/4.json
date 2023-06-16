@@ -1,0 +1,32 @@
+{
+	"storyName": "",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "suicide",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"happy-drama",
+			"sadmouse",
+			[
+				146,
+				153,
+				155
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "t",
+	"hiddenUntilUnlocked": true
+}
